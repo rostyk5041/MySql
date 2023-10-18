@@ -1,2 +1,0 @@
-# MySql
-Вatabase management systems
